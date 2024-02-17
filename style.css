@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 20px 0;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
